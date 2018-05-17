@@ -1,0 +1,61 @@
+# depslib dependency file v1.0
+1520286720 source:/home/tomas/Development/embedded_system/accelerometer/fuse.c
+	<avr/io.h>
+
+1525430870 source:/home/tomas/Development/embedded_system/accelerometer/main.c
+	<avr/io.h>
+	<util/delay.h>
+	<inttypes.h>
+	<stdio.h>
+	"vector.h"
+	<string.h>
+	<math.h>
+	"define.h"
+	"i2c.h"
+	"serial.h"
+	"compass.h"
+	<avr/interrupt.h>
+	<stdbool.h>
+
+1295865044 source:/home/tomas/Development/embedded_system/accelerometer/vector.c
+	"vector.h"
+	<math.h>
+
+1295864970 /home/tomas/Development/embedded_system/accelerometer/vector.h
+
+1520960601 source:/home/tomas/Development/embedded_system/accelerometer/compass.c
+	<avr/io.h>
+	<util/delay.h>
+	<math.h>
+	<stdlib.h>
+	<string.h>
+	"vector.h"
+	"i2c.h"
+	"compass.h"
+	"serial.h"
+	"define.h"
+
+1520954107 /home/tomas/Development/embedded_system/accelerometer/i2c.h
+	"define.h"
+	<inttypes.h>
+	<avr/io.h>
+	<util/delay.h>
+
+1523369701 /home/tomas/Development/embedded_system/accelerometer/define.h
+
+1520954446 /home/tomas/Development/embedded_system/accelerometer/compass.h
+
+1521021915 /home/tomas/Development/embedded_system/accelerometer/serial.h
+	"define.h"
+	<inttypes.h>
+	<avr/io.h>
+	<util/delay.h>
+	<avr/interrupt.h>
+	<util/delay.h>
+
+1521743806 source:/home/tomas/Development/embedded_system/accelerometer/i2c.c
+	"i2c.h"
+
+1521743681 source:/home/tomas/Development/embedded_system/accelerometer/serial.c
+	"serial.h"
+

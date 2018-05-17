@@ -1,1 +1,5 @@
-node_modules/*
+serverApp/node_modules/*
+Raspberry/__pycache__/*
+accelerometer/.idea/*
+accelerometer/bin/*
+accelerometer/obj/*
