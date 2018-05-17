@@ -1,0 +1,25 @@
+{
+  "name": "iot-server",
+  "version": "1.0.0",
+  "description": "Track your device",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Express",
+    "RestAPI",
+    "MongoDB",
+    "Mongoose"
+  ],
+  "author": "tomas",
+  "license": "MIT",
+  "dependencies": {
+    "bluebird": "^3.5.1",
+    "body-parser": "^1.18.2",
+    "express": "^4.16.3",
+    "express-public-ip": "^1.0.1",
+    "mongoose": "^5.0.11",
+    "mqtt": "^2.17.0"
+  }
+}
