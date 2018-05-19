@@ -5,7 +5,7 @@ import numpy as np
 from dataFormat import DataModule
 import math
 
-plotly.tools.set_credentials_file(username='tomas_urban', api_key='bSTpWjykOzSVkASTSRMB')
+plotly.tools.set_credentials_file(username='<USERNAME>', api_key='<APIKEY>')
 
 
 
